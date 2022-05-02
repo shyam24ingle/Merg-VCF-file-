@@ -1,0 +1,7 @@
+freebayes_raw.vcf is opened sucessfully!
+varscan_raw.vcf is opened sucessfully!
+No Common headers INFO tags found in both VCF files.
+Common headers FORMAT tags found in both VCF files.
+Headers are merged from both VCF files.
+Common calls Identifed and tags are renamed.
+**Merged VCF file Created successfully!**
